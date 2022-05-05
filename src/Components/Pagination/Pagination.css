@@ -1,0 +1,33 @@
+.buttons{
+    cursor:pointer;
+    color: #474955;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 137.69%;
+    border: none!important;
+    padding:14px 0 0 0!important;
+}
+.pagination{
+    padding:14px 0 0 0!important;
+    font-style: italic;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 137.69%;
+}
+
+.page-link {
+    border: none;
+    padding: 0.4rem;
+    color: #474955;
+    -webkit-transition: color 1s ease-out;
+}
+
+.page-link:hover{
+    color: #7EBC3C;
+    background-color: transparent;
+}
+.page-link:focus{
+    background-color: transparent;
+    color: #7EBC3C;
+}
